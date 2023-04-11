@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link href="https://allfont.ru/allfont.css?fonts=sf-gushing-meadow" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="это что еще.css">
+    <link rel="stylesheet" href="пытаюсь.js">
+    <link href="https://allfont.ru/allfont.css?fonts=ostrich-sans-medium" rel="stylesheet" type="text/css" />
+  <link href="https://allfont.ru/allfont.css?fonts=cold-night-for-alligators" rel="stylesheet" type="text/css" />
+</head>
+<body>
+  <script>
+    if (confirm("КИС КИС КИС КИС ")) {
+  alert ("Я КОТИК ТЫ КОТИК") ;  
+  } else {
+  alert ("ЭЭЭЭ НЕ СЮДА ТЫКАЙ");  
+  }  
+  </script>
+
+   <div id="all"> 
+    <div id="footer"><p> Golybeva <br> Galina </p></div><div id="wrapper"> <h1>Portfolio</h1>
+
+    <div id="nav">
+      <a href="помогитиии.html">Home</a>
+      <a href="About me.html" >About me</a>
+      <a href="contscts.html">Contscts</a>
+      <a href="skills.html">Skills</a>
+    </div id="nav">
+
+
+<div class="slideshow-container">
+
+ 
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 3</div>
+    <img src="https://sun9-29.userapi.com/impg/w2fS-Q31ITr2bkNgb1v8aHwsylLtkJo1CvbmvQ/J-Rpy8J71g0.jpg?size=1280x1172&quality=95&sign=bb043a35afe0cfe154723446eafbb8ba&type=album" style="width:100%">
+    
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 3</div>
+    <img src="https://sun9-45.userapi.com/impg/yvKu2kIWNaOdxlNzCjdxhH41H0dLzB1rrODRKQ/oCx7odgzMMc.jpg?size=1280x1280&quality=95&sign=9eed0632260b684fd048045ac08e2782&type=album" style="width:100%">
+   
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 3</div>
+    <img src="https://sun9-30.userapi.com/impg/6T9M_tJeHBhmBBt3VRjrgFX175OHt_-rU8YNvw/ysPwAhxB9nI.jpg?size=604x582&quality=96&sign=b9af9c7f19a3e2c552678ac8cd5027e7&type=album" style="width:100%">
+ 
+  </div>
+
+ 
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+</div>
+
+    <script>
+      var slideIndex = 1;
+showSlides(slideIndex);
+
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+}
+    </script>
+</div>
+</body>
+</html>
