@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contscts</title>
+    <link rel="stylesheet" href="skills.css">
+
+</head>
+<body>
+    <div id="wrapper">    <h1>Skills</h1>
+    <div id="nav">
+        <a href="помогитиии.html">Home</a>
+        <a href="About me.html" >About me</a>
+        <a href="contscts.html">Contscts</a>
+        <a href="skills.html">Skills</a>
+    </div>
+
+<div id="polosa">
+    <a href="" target="_blank" class="contakt"><img src="https://fuzeservers.ru/wp-content/uploads/b/0/7/b0772415cb6ed295bcac1b9088e8affa.png" alt="html"></a>
+    <a href="" target="_blank" class="contakt"><img src="https://avatars.mds.yandex.net/i?id=c655ebdb1e89a5af755e643dd5be54aa-4430404-images-thumbs&n=13" alt="figma"></a>
+    <a href="" target="_blank" class="contakt"><img src="http://cdn.onlinewebfonts.com/svg/img_261088.png" alt="js"></a>
+    <a href="" target="_blank" class="contakt"><img src="https://www.shareicon.net/data/2016/07/14/607141_visualstudio_4096x4096.png" alt="vs"></a>
+    <a href="" target="_blank" class="contakt"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple22/v4/72/d8/29/72d829ed-f696-5ca0-44c6-30a6f91b7240/pr_source.jpg/1200x630wa.png" alt="vs"></a>
+    <div id="conteiner"></div>
+</body> 
