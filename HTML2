@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Me</title>
+    <link href="https://allfont.ru/allfont.css?fonts=sf-gushing-meadow" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="это что еще.css">
+    <link href="https://allfont.ru/allfont.css?fonts=ostrich-sans-medium" rel="stylesheet" type="text/css" />
+  <link href="https://allfont.ru/allfont.css?fonts=cold-night-for-alligators" rel="stylesheet" type="text/css" />
+</head>
+<body>
+   <div id="all"> 
+    <div id="footer"><p> Golybeva <br> Galina </p></div><div id="wrapper"> <h1>Хочу спать:(</h1>
+    <div id="nav">
+      <a href="помогитиии.html">Home</a>
+        <a href="About me.html" >About me</a>
+        <a href="contscts.html">Contscts</a>
+        <a href="skills.html">Skills</a>
+    </div>
+    <div id="footer"><p> Hi, my name is Galchonokk –I am a novice programmer from Moscow. <br>  I am interested in design, programming, and everything related to it.<br> I am studying at my favorite KMB College No. 4 in the IPS-11.22 group, majoring in information systems and programming. </p>
+    <img src="https://sun9-3.userapi.com/impg/_yMHXJn6VebOoEnofyi2tGd7SdLmlWAxatGWyQ/9umYMhQUcI8.jpg?size=1280x854&quality=96&sign=4b2057ce16ca02518cde6da1b5d9de9a&type=album" alt="оа" class="pic">
+    <div id="conteiner"></div>
+</div>
+</body>
+</html>
