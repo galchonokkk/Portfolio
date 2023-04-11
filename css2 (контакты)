@@ -1,0 +1,49 @@
+
+    #footer p {
+        float: right;
+        top: 0px;
+        font-size: x-large;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    #all{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    body {
+        font-size: 14px;
+        display: flex;
+      }
+    #awrapper {
+        display: flex;
+        align-items: center;
+    }
+    .pic {
+        align-self: center; }
+    
+    h1{
+        font-size: 50px;
+        font-variant: small-caps;
+    top: 0px;
+    right: 0px;
+    letter-spacing: 7px;
+        }
+    img {
+            margin-top: 50px;
+            margin-left: 40px;
+            margin-right: 40px;
+            height: 170px;
+            margin-bottom: 50px;
+        }
+    #nav {
+        bottom: 20px;
+    }	
+    #nav a {
+        margin-bottom: 5px;
+        margin-left: 10px;
+        text-decoration: none;
+        color: black;
+        border: 1px solid grey;
+        border-radius: 5px;
+        padding: 8px;
+        float:right ;
+    }
