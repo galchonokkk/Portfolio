@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contscts</title>
+    <link rel="stylesheet" href="контактыыыы.css">
+
+</head>
+<body>
+    <div id="wrapper">    <h1>Galchonokkk</h1>
+    <div id="nav">
+        <a href="помогитиии.html">Home</a>
+        <a href="About me.html" >About me</a>
+        <a href="contscts.html">Contscts</a>
+        <a href="skills.html">Skills</a>
+    </div>
+    <img src="https://sun9-36.userapi.com/impg/a_b73bMFBoFQdPulUsBBdNIhe4Jt7aX-HROGPA/jvFWidGwT1c.jpg?size=736x736&quality=95&sign=85016dcd8aa59e4428569d5c5cd85881&type=album" alt="оао" class="pic">
+    </div>
+
+<div id="эоэ">
+    <a href="https://vk.com/galchonokk17" target="_blank" class="contakt"><img src="https://avatars.mds.yandex.net/i?id=e2c3f75781f012b552027abcc85b15dd-4475071-images-thumbs&n=13" alt="вк"></a>
+    <a href="https://t.me/the_lady_of_your_heart_17" target="_blank" class="contakt"><img src="https://avatars.mds.yandex.net/i?id=5a865c7f997364eb333485c34f8bc1a768f345bd-7051980-images-thumbs&n=13" alt="тг"></a>
+    <a href="" target="_blank" class="contakt"><img src="https://avatars.mds.yandex.net/i?id=b40f01d5716f14f3de50352e1f0fa83b-4451422-images-thumbs&n=13" alt="инст"></a> 
+        <a href="https://vk.com/away.php?utf=1&to=https%3A%2F%2Finstagram.com%2Fgalchonokk17%3Figshid%3DYmMyMTA2M2Y%3D" target="_blank" class="contakt"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Whatsapp_svg-1024.png" alt="цапцап"></a>
+    <div id="conteiner"></div>
+</body>
+</html>
